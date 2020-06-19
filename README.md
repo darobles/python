@@ -1,2 +1,2 @@
 # python
-asdasd
+Conexión básica de Python a BD
